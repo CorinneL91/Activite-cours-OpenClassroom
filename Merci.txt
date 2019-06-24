@@ -1,3 +1,6 @@
 Et Merci pour le cours
 Très détaillé, clair et précis 
 Cela me donnerai presque envie de redvenir développeur !
+
+Et dernière modification en local avant envoi sur GitHub de ce fichier créé au départ sur GitHub 
+

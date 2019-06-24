@@ -1,0 +1,3 @@
+Fichier pour l'activité Git
+En tant que coach Devops je cherche à apprendre plus en profondeur ce que manipule mes ingénieurs même si je connais déjà le vocabulaire et les concepts
+Ce cours est un top pour appréhender sans forcément être développeur

@@ -1,0 +1,3 @@
+Deuxième fichier pour activité Git / GitHub
+N'étant pas devoppeur mais coach Devops je vais me contenter de texte !
+LE cours est trèsz clair :)
